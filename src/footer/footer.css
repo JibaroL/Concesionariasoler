@@ -1,0 +1,125 @@
+.container-footer {
+    width: 100%;
+    height: 200px;
+    margin-inline: auto;
+    color: rgb(239, 241, 243);
+}
+.seccion1 {
+    width: 100%;
+    height: 180px;
+    background: linear-gradient(#003f69, #5ab6c6);
+    display: flex;
+    color: white;
+    align-items: center;
+    border: solid 10px #010101;
+    border-radius: 75px 0% 100% 0px;
+    box-shadow: 10px 30px 19px rgba(12, 3, 3, 0.747);
+}
+
+.seccion2 {
+    box-shadow: #003f69;
+    background-color: rgb(40, 99, 148);
+    color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding-inline: 10px;
+}
+
+
+.contacto {
+    max-width: 300px; /* Ajusta el ancho máximo */
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    text-align: center;
+    background-color: #3a66c5;
+    color: beige;
+    padding: 10px;
+    border-radius: 40px;
+    margin: 10 auto; /* Centrar el contenedor */
+    
+    display: flex; /* Usar flexbox para alinear el contenido */
+    flex-direction: column; /* Alinear contenido verticalmente */
+    justify-content: center; /* Centrar el contenido */
+    align-items: center; /* Alinear horizontalmente */
+}
+
+.contacto span, /* Puedes usar elementos span para el texto y el icono */
+.contacto .icono, /* Asumiendo que el icono tiene una clase .icono */
+.contacto .telefono { /* Asumiendo que el teléfono tiene una clase .telefono */
+    font-size: 16px; /* Ajusta el tamaño de la fuente como prefieras */
+    line-height: 1.5; /* Mantén buen espaciado entre líneas */
+}
+
+div.redes {
+    align-items: center;
+    margin-top: auto;
+
+}
+
+.whatsapp-icon {
+    font-size: 35px;
+    color: rgb(6, 180, 6);
+}
+.telefono-icon {
+    font-size: 30px;
+    color: rgb(229, 238, 238);
+}
+.face {
+    background-color: hwb(194 66% 13% / 0.747);
+    margin-left: 8px;
+    font-size: 50px;
+    width: 70px; /* Ajusta según el tamaño que quieras para el contenedor */
+    height: 70px; /* Ajusta según el tamaño que quieras para el contenedor */
+
+    display: flex; /* Activar flexbox */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    
+    border-radius: 50%; /* Opcional: Si quieres hacer el contenedor redondo */
+}
+
+.inst {
+    background-color: hwb(194 66% 13% / 0.747);
+    color: rgb(199, 23, 11);
+    
+    margin-left: 8px;
+    font-size: 50px;
+    
+    width: 70px; /* Ajusta según el tamaño que quieras para el contenedor */
+    height: 70px; /* Ajusta según el tamaño que quieras para el contenedor */
+    
+    display: flex; /* Activar flexbox */
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    
+    border-radius: 50%; /* Opcional: Si quieres hacer el contenedor redondo */
+    
+}
+.redes a {
+    position: relative; /* Necesario para posicionar el tooltip */
+   display:flex;
+}
+
+.tooltip {
+    visibility: hidden;
+    background-color: #13c9ba;
+    color: #000000;
+    text-align: center;
+    border-radius: 25px;
+    padding: 5px;
+    position: absolute;
+    bottom: 125%; /* Ajusta la posición según el tamaño del ícono */
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 5px;
+    transition: opacity 0.3s;
+    white-space: nowrap; /* Evitar que el texto se divida en varias líneas */
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.redes a:hover .tooltip {
+    visibility: visible;
+    opacity: 10;
+}
