@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Concecionariasoler/static/css/main.92bc4b17.css",
-    "main.js": "/Concecionariasoler/static/js/main.1cbe9e39.js",
-    "static/media/DSCF0133.jpg": "/Concecionariasoler/static/media/DSCF0133.f6c676a3e740f8ec5174.jpg",
-    "static/media/actgifeo150x150px.gif": "/Concecionariasoler/static/media/actgifeo150x150px.a3053a431434b31bace6.gif",
-    "static/media/DSCF0269-Mejorado-NR.jpg": "/Concecionariasoler/static/media/DSCF0269-Mejorado-NR.549ed0d4306463142419.jpg",
-    "static/media/Encabezado-Web-Prestamo-Automotor.jpg": "/Concecionariasoler/static/media/Encabezado-Web-Prestamo-Automotor.e8d35ab1562b3c412ac9.jpg",
-    "static/media/showroom.jpg": "/Concecionariasoler/static/media/showroom.8caee682c4595b94951d.jpg",
-    "static/media/th (8).jpeg": "/Concecionariasoler/static/media/th (8).8451c05c5a1789fb46dd.jpeg",
-    "static/media/slick.svg": "/Concecionariasoler/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/Concecionariasoler/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/Concecionariasoler/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "/Concecionariasoler/index.html",
-    "static/media/slick.woff": "/Concecionariasoler/static/media/slick.295183786cd8a1389865.woff",
-    "main.92bc4b17.css.map": "/Concecionariasoler/static/css/main.92bc4b17.css.map",
-    "main.1cbe9e39.js.map": "/Concecionariasoler/static/js/main.1cbe9e39.js.map"
+    "main.css": "/Concesionariasoler/static/css/main.2a88d4df.css",
+    "main.js": "/Concesionariasoler/static/js/main.ded7da3c.js",
+    "static/media/DSCF0133.jpg": "/Concesionariasoler/static/media/DSCF0133.f6c676a3e740f8ec5174.jpg",
+    "static/media/actgifeo150x150px.gif": "/Concesionariasoler/static/media/actgifeo150x150px.a3053a431434b31bace6.gif",
+    "static/media/DSCF0269-Mejorado-NR.jpg": "/Concesionariasoler/static/media/DSCF0269-Mejorado-NR.549ed0d4306463142419.jpg",
+    "static/media/Encabezado-Web-Prestamo-Automotor.jpg": "/Concesionariasoler/static/media/Encabezado-Web-Prestamo-Automotor.e8d35ab1562b3c412ac9.jpg",
+    "static/media/showroom.jpg": "/Concesionariasoler/static/media/showroom.8caee682c4595b94951d.jpg",
+    "static/media/th (8).jpeg": "/Concesionariasoler/static/media/th (8).8451c05c5a1789fb46dd.jpeg",
+    "static/media/slick.svg": "/Concesionariasoler/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Concesionariasoler/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Concesionariasoler/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Concesionariasoler/index.html",
+    "static/media/slick.woff": "/Concesionariasoler/static/media/slick.295183786cd8a1389865.woff",
+    "main.2a88d4df.css.map": "/Concesionariasoler/static/css/main.2a88d4df.css.map",
+    "main.ded7da3c.js.map": "/Concesionariasoler/static/js/main.ded7da3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.92bc4b17.css",
-    "static/js/main.1cbe9e39.js"
+    "static/css/main.2a88d4df.css",
+    "static/js/main.ded7da3c.js"
   ]
 }
